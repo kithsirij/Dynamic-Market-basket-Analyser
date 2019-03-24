@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">MarketBasketAnalyser</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Store Placement</string>
+    <string name="tab_text_3">Product Analysis</string>
+    <string name="tab_text_4">Country Analysis</string>
+    <string name="tab_text_5">Quarter Analysis</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- Pictures -->
+    <array name="profile_pics">
+        <item>@drawable/first</item>
+        <item>@drawable/second</item>
+        <item>@drawable/third</item>
+        <item>@drawable/fourth</item>
+        <item>@drawable/fifth</item>
+        <item>@drawable/six</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+        <item>@drawable/normal</item>
+
+    </array>
+
+</resources>

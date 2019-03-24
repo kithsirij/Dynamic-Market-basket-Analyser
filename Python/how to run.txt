@@ -1,0 +1,12 @@
+Country-wise analysis
+	python basket.py countryName
+
+
+quarter analysis
+	python basket.py q quarter   
+
+//quarter => one,two,three
+
+full analysis 
+	python basket.py
+
